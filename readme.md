@@ -1,12 +1,13 @@
-4 Terminal Windows
-* In /dev> 'gulp'
+4 Terminal Windows:
+
+In /dev> 'gulp'
 - Updates and css and js files.
 
-* 'mongod --dbpath \data'
+'mongod --dbpath \data'
 - Starts the db.
 
-* In \server> 'nodemon' or 'node app.js'
+In \server> 'nodemon' or 'node app.js'
 - Starts the server
 
-* python -m http.server 8000
+python -m http.server 8000
 - Starts the microservice
