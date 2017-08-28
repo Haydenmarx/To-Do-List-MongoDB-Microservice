@@ -1,0 +1,19 @@
+.container {
+  margin-top: 30px;
+}
+
+.edit-item-form {
+  display: none;
+}
+
+#show-new-item-form {
+  font-size: 1.2em;
+  display: block;
+  width: 36px;
+  height: 36px;
+  margin: auto auto;
+}
+
+#new-todo-form {
+  display: none;
+}
