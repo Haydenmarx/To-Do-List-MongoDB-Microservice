@@ -9,5 +9,8 @@ In /dev> 'gulp'
 In \server> 'nodemon' or 'node app.js'
 - Starts the server
 
-python -m http.server 8000
+In \client> python -m http.server 8000
 - Starts the microservice
+
+To Visit The Website:
+http://localhost:8000/
